@@ -1,1 +1,1 @@
-# vibematch.-app
+# vibematch-app
