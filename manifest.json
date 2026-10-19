@@ -1,11 +1,10 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "VibeMatch",
-  "orientation": "any",
-  "scope": "/",
   "short_name": "VibeMatch",
-  "start_url": "/",
-  "theme_color": "#ffffff"
+  "description": "VibeMatch Social and Music Matching App",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#020307",
+  "theme_color": "#020307",
+  "orientation": "portrait"
 }
